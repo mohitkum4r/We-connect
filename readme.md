@@ -52,4 +52,4 @@ var peer = new Peer(undefined,{
 ```
 
 ## License
-[Mohit's Github](https://github.com/Mohit4706)
+[Mohit's Github](https://github.com/mohitkum4r)
